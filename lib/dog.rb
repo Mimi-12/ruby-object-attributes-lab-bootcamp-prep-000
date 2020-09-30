@@ -6,4 +6,3 @@
         @dog_name
        end
   end
-
