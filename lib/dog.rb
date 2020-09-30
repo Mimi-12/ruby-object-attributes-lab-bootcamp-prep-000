@@ -6,4 +6,3 @@
         @name
        end
   end
-  
