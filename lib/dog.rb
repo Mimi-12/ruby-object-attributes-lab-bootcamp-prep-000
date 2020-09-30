@@ -6,3 +6,4 @@
         @name
        end
   end
+Fido.name = "Fido"
