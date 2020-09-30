@@ -6,4 +6,4 @@
         @dog_name
        end
   end
-puts fido.name
+
