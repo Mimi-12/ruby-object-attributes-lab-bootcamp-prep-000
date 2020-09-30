@@ -6,4 +6,4 @@
         @name
        end
   end
-  puts fido.name
+  
