@@ -6,7 +6,4 @@
         @name
        end
   end
-  Fido = Dog.new
-  fido.name = "fido"
-
   puts fido.name
