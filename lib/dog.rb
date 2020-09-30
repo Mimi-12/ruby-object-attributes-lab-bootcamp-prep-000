@@ -7,7 +7,6 @@
        end
   end
   Fido = Dog.new
-  Fido.name = "Fido"
+  fido.name = "fido"
 
-  puts Fido.name
-   
+  puts fido.name
